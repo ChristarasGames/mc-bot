@@ -12,7 +12,8 @@ const botArgs = {
   host: '91.98.147.128', 
   port: 25567, // Άλλαξέ το αν ο server σου έχει άλλη θύρα
   username: 'IdleBot',         
-  version: false               
+  version: "1.21.11"
+              
 };
 
 function initBot() {
