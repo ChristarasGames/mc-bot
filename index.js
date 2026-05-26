@@ -11,7 +11,7 @@ http.createServer((req, res) => {
 const botArgs = {
   host: '91.98.147.128', 
   port: 25567, // Άλλαξέ το αν ο server σου έχει άλλη θύρα
-  username: 'IdleBot',         
+  username: 'ServerBot',         
   version: "1.21.11"
               
 };
