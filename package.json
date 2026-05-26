@@ -6,6 +6,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "mineflayer": "^4.22.0"
+    "mineflayer": "github:PrismarineJS/mineflayer#master"
   }
 }
