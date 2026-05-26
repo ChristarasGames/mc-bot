@@ -11,7 +11,7 @@ http.createServer((req, res) => {
 const botArgs = {
   host: '91.98.147.128', 
   port: 25567, 
-  username: 'ServerBot', // Το όνομα που βάλατε στη whitelist         
+  username: '.ServerBot', // Το όνομα που βάλατε στη whitelist         
   version: "1.21.11"               
 };
 
